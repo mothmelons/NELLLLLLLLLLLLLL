@@ -1,0 +1,82 @@
+html {
+    background-color: rgb(26, 26, 26);
+}
+
+header a {
+    background-color: black;
+    color: yellow;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: sans-serif;
+
+}
+main p {
+    background-color: rgb(79, 79, 238);
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+
+}
+header img {
+
+   
+    display: block;
+    margin: 0 auto;
+ 
+    border-radius: 5px;
+    border: 7px solid rgb(79, 79, 238) ;
+   
+
+    
+}
+p {
+    color: black;
+}
+
+footer{
+    background-color: rgb(61, 61, 61);
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+   
+    text-align: center;
+    
+ 
+    
+}
+footer a {
+    background-color: red;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: white;
+    padding: 5px;
+}
+
+
+
+nav{
+   margin: 10px 0px;
+   text-align: center;
+}
+
+
+
+
+
+footer p {
+    color: white;
+}
